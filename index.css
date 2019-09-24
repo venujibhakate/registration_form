@@ -3,15 +3,17 @@
     padding:0px;
     
 }
-
+body{
+    background-color: antiquewhite;
+}
 form{
     width:50%;
     margin:auto;
     padding:25px;
     background: #663366;
     font-size:20px;
-    font-family: Verdana;
     color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 input[type=text]{
     width:90%;
@@ -26,5 +28,5 @@ input[type = submit]{
 select{
     font-size: 20px;
     padding:5px;
-    background: #e0d3e;
+    background: #e0d3e8;
 }
